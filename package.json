@@ -1,0 +1,19 @@
+{
+  "name": "apiserver",
+  "version": "1.0.0",
+  "description": "API Server für Ahmert",
+  "main": "apiServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "apiServer.js"
+  },
+  "keywords": [
+    "API",
+    "Server"
+  ],
+  "author": "Ahmeter Caglar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
